@@ -13,4 +13,5 @@ Here at Orbital, we strive to provide our members not only with the opportunity 
 
 ### More Information
 Our website: [www.purdueorbital.com](www.purdueorbital.com)
+
 Email: [purdueorbital@gmail.com](purdueorbital@gmail.com)
