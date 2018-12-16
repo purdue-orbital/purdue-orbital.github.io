@@ -1,3 +1,3 @@
-# purdueorbital.github.io
-Website mockup for Purdue Orbital
+# Purdue Orbital Software Documentation
+Documentation for Purdue Orbital's Software Endeavors
 
